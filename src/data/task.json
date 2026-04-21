@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Next.js project setup",
+    "description": "Initialize project, install dependencies, and configure routing",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "id": 2,
+    "title": "Design homepage UI",
+    "description": "Create responsive layout using Tailwind CSS",
+    "status": "in-progress",
+    "priority": "medium"
+  },
+  {
+    "id": 3,
+    "title": "Implement authentication",
+    "description": "Add login and signup functionality",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "id": 4,
+    "title": "Fetch API data",
+    "description": "Integrate external API using fetch",
+    "status": "completed",
+    "priority": "medium"
+  },
+  {
+    "id": 5,
+    "title": "Create dashboard page",
+    "description": "Display user-specific data",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "id": 6,
+    "title": "Optimize images",
+    "description": "Use Next.js Image component for performance",
+    "status": "in-progress",
+    "priority": "low"
+  },
+  {
+    "id": 7,
+    "title": "Write unit tests",
+    "description": "Test components and API routes",
+    "status": "pending",
+    "priority": "medium"
+  },
+  {
+    "id": 8,
+    "title": "Fix responsive issues",
+    "description": "Adjust layout for mobile devices",
+    "status": "in-progress",
+    "priority": "high"
+  },
+  {
+    "id": 9,
+    "title": "Deploy application",
+    "description": "Deploy project to Vercel",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "id": 10,
+    "title": "Add dark mode",
+    "description": "Implement theme toggle functionality",
+    "status": "completed",
+    "priority": "low"
+  }
+]
